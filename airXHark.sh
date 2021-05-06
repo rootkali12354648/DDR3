@@ -1,1 +1,0 @@
-aircrack-ng Wifi/wifi.cap -w Password/Password.lst
